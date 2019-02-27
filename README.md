@@ -1,9 +1,9 @@
-#Project of week 1. Encrypting & decrypting text
+# Project of week 1. Encrypting & decrypting text
 
-##Description
+## Description
 The program is intended to allow the user to input a text and choose if he wants to encrypt it or decrypt it. I would like to create a translation table, to be used for the encryption (option 1. using just english alphabet 2. maybe using full ASCII, if making life hard for myself - could give the user a choice of encryption method adding as caesar cypher as well). 
 
-###Tasks(for one encryption option only)
+### Tasks(for one encryption option only)
 
 1. Create the lists for original alphabet and encrypted alphabet (alternatively use ASCII)
 2. Create translation table (using maketrans())
